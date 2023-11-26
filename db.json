@@ -1,9 +1,21 @@
 {
-  "users":[
+  "users": [
     {
       "id": 1,
-      "login":"test",
-      "password": "password"
+      "login": "test",
+      "password": "test"
+    }
+  ],
+  "zakupy": [
+    {
+      "id": 1,
+      "nazwa": "banany",
+      "ilosc": 14
+    },
+    {
+      "id": 2,
+      "nazwa": "gruszki",
+      "ilosc": 10
     }
   ]
 }
