@@ -6,4 +6,16 @@
       "password": "password"
     }
   ]
+"zakupy":[
+    {
+      "id": 1,
+      "produkt":"banany",
+      "ilosc": "2"
+    }
+    {
+      "id": 2,
+      "produkt":"salata",
+      "ilosc": "1"
+    }
+  ]
 }
